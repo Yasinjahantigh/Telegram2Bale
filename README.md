@@ -16,7 +16,7 @@ A public, multi-tenant bridge bot for forwarding messages between Telegram and B
 
 - Python 3.10+
 - Telegram bot token from [BotFather](https://t.me/BotFather)
-- Bale bot token from Bale's bot creator
+- Bale bot token from Bale's BotFather
 
 Install dependencies:
 
